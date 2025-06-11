@@ -1,7 +1,7 @@
 import requests
 import os
 
-API_KEY = "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"
+API_KEY = ""
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "mistralai/mistral-7b-instruct:free"
 
